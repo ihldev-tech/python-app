@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: ihl79dev/python-app
   pullPolicy: IfNotPresent
-  tag: 231e64
+  tag: 821ead
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
